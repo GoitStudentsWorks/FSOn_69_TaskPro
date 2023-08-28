@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FSOn_69_TaskPro/static/css/main.480dc387.css",
-    "main.js": "/FSOn_69_TaskPro/static/js/main.d488e7eb.js",
+    "main.js": "/FSOn_69_TaskPro/static/js/main.d8cd0e14.js",
     "static/css/805.e6524e73.chunk.css": "/FSOn_69_TaskPro/static/css/805.e6524e73.chunk.css",
     "static/js/805.0dad9cd0.chunk.js": "/FSOn_69_TaskPro/static/js/805.0dad9cd0.chunk.js",
     "static/css/560.06f53582.chunk.css": "/FSOn_69_TaskPro/static/css/560.06f53582.chunk.css",
@@ -117,7 +117,7 @@
     "static/media/10-mob.jpg": "/FSOn_69_TaskPro/static/media/10-mob.3f7dcc19fc0cdd29d249.jpg",
     "index.html": "/FSOn_69_TaskPro/index.html",
     "main.480dc387.css.map": "/FSOn_69_TaskPro/static/css/main.480dc387.css.map",
-    "main.d488e7eb.js.map": "/FSOn_69_TaskPro/static/js/main.d488e7eb.js.map",
+    "main.d8cd0e14.js.map": "/FSOn_69_TaskPro/static/js/main.d8cd0e14.js.map",
     "805.e6524e73.chunk.css.map": "/FSOn_69_TaskPro/static/css/805.e6524e73.chunk.css.map",
     "805.0dad9cd0.chunk.js.map": "/FSOn_69_TaskPro/static/js/805.0dad9cd0.chunk.js.map",
     "560.06f53582.chunk.css.map": "/FSOn_69_TaskPro/static/css/560.06f53582.chunk.css.map",
@@ -135,6 +135,6 @@
   },
   "entrypoints": [
     "static/css/main.480dc387.css",
-    "static/js/main.d488e7eb.js"
+    "static/js/main.d8cd0e14.js"
   ]
 }
